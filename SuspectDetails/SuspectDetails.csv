@@ -1,0 +1,22 @@
+ID,Suspect_ID,Name,Place,Age,Type,Date,Time
+1,12,Payal Digarse,Nagpur,21,Killer,31-07-2020,22:59:25
+1,7,Shubham,Bhopal,20,Killer,01-08-2020,18:20:46
+1,55,ranu,solapur,32,hacker,01-08-2020,23:02:58
+1,91,Raj,Sobhapur,35,chain snatcher,01-08-2020,23:06:28
+1,97,johan,kerala,45,kidnapper,2020-08-01,23:24:10
+1,97,johan,kerala,45,kidnapper,2020-08-01,23:25:18
+1,46,raman,sitamgad,33,murderer,2020-08-01,23:31:36
+1,46,kumar,bihar,44,gambler,2020-08-01,23:37:15
+1,695,suresh ,bombay,25,match fixing,2020-08-01,23:45:53
+1,66,simran,punjab,25,Durk & Drive,2020-08-01,23:58:40
+1,Unknown,simran,punjab,25,Durk & Drive,2020-08-01,23:59:32
+1,46,simran,punjab,25,Durk & Drive,2020-08-02,00:00:38
+1,69,kishan,rampur,24,bike stealing,2020-08-02,00:02:55
+1,456,Raghav,Jodhpur,29,Serial Killer,2020-08-02,13:50:26
+1,456,Vishal,Habibganj,38,Thief,2020-08-02,13:54:47
+1,456,Vishal,Habibganj,38,Thief,2020-08-02,13:55:17
+1,639,Danish,Suhagpur,36,Drug dealer,2020-08-02,14:17:06
+1,639,tony,hingna,55,thief,2020-08-02,14:48:10
+1,84,virat,sarbni,22,thief,2020-08-02,17:08:55
+1,84,Aman,Kolkata,26,Bookie,2020-08-03,11:39:33
+1,852,Ameena,Faridabad,30,Thief,2020-08-03,11:44:10
